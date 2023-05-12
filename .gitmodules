@@ -1,0 +1,3 @@
+[submodule "Tours-app"]
+	path = Tours-app
+	url = https://github.com/hafizabdullah510/React-Projects.git
